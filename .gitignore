@@ -5,3 +5,6 @@ Thumbs.db
 /output
 /temp
 /template
+KDL-publisher.zip
+_gen*.*
+_build.bat

@@ -4,14 +4,15 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: kdl
-canonical: https://www.dvmd.de/kdl/fhir
+canonical: http://www.dvmd.de/kdl
 name: KDL
-title: KDL - konsolidierte Dokumentenliste
+title: KDL - Klinische Dokumentenklassen-Liste
 description: Implementation Guide für KDL
 status: draft # draft | active | retired | unknown
-version: 0.1.0
+version: 0.2.0
+date: 2026-02-20
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
-copyrightYear: 2025+
+copyrightYear: 2026+
 releaseLabel: ci-build
 # license: CC0-1.0 # https://www.hl7.org/fhir/valueset-spdx-license.html
 # jurisdiction: urn:iso:std:iso:3166#US "United States of America" # https://www.hl7.org/fhir/valueset-jurisdiction.html
@@ -24,7 +25,8 @@ publisher:
 # package id and the value is the version (or dev/current). For advanced
 # use cases, the value can be an object with keys for id, uri, and version.
 #
-# dependencies:
+dependencies:
+  ihe-de.iti.xds-vs: dev
 #   hl7.fhir.us.core: 3.1.0
 #   hl7.fhir.us.mcode:
 #     id: mcode
