@@ -10,7 +10,7 @@ title: KDL - Klinische Dokumentenklassen-Liste
 description: Implementation Guide für KDL
 status: draft # draft | active | retired | unknown
 version: 0.2.0
-date: 2026-02-20
+date: 2026-03-02
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2026+
 releaseLabel: ci-build
