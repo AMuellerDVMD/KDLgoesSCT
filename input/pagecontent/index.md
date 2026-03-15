@@ -17,17 +17,13 @@ im täglichen Gebrauch. Sie stellt den Kern von Dokumententypen in einer medizin
 Basis für die Liste sind die – von 300 Krankenhäusern aller Versorgungsstufen – vorhandenen Benennungen 
 von Dokumenten (Bezeichnungen der papiergeführten und elektronischen Dokumentation) in einer Patientenakte.
 
-Dieser Leitfaden befolgt mehrere Ziele:
+## Mappings
 
-* Umstellung auf ein anerkanntes Toolkit
-* Überführung in FSH-basierte Dateien für eine vereinfachte Verwaltung
-* Nutzung von FHIR-Codesystem Ressoucre als Inhaltsformat
-  * Einsatz von Properties zur besseren Attributierung
-  * bessere Beschreibung der Codes
-  * Umbau in eine Ontologie
+* KDL -> Snomed CT
+* KDL -> LOINC
 
 ## Offene Punkte
 
-* Properties angeben
+* Trennung in separrate Leitfäden, um die Mappings unabhängig voneinder zu machen
 * diverse weitere Seiten zur Erklärung des Inhaltes ..
 * Farbanpassungen: myTemplate/content/assets/css/dvmd.css

@@ -3,14 +3,14 @@
 # │  used properties are included. For a list of all supported properties and their functions,     │
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
-id: kdl
+id: kdlgoessct
 canonical: http://www.dvmd.de/kdl
-name: KDL
-title: KDL - Klinische Dokumentenklassen-Liste
-description: Implementation Guide für KDL
+name: KDLgoesSnomed
+title: KDL - Mapping auf Snomed und LOINC
+description: Implementation Guide für KDL-Mappings
 status: draft # draft | active | retired | unknown
-version: 0.2.0
-date: 2026-03-03
+version: 0.1.0
+date: 2026-03-15
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2026+
 releaseLabel: ci-build
@@ -26,7 +26,7 @@ publisher:
 # use cases, the value can be an object with keys for id, uri, and version.
 #
 dependencies:
-  ihe-de.iti.xds-vs: dev
+  #ihe-de.iti.xds-vs: dev
 #   hl7.fhir.us.core: 3.1.0
 #   hl7.fhir.us.mcode:
 #     id: mcode
