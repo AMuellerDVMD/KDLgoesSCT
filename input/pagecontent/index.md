@@ -10,7 +10,7 @@ die KDL einen wichtigen Beitrag zur Interoperabilität in der Gesundheits-IT: Si
 also die Zuordnung, interner Dokumenttyp-Benennungen der Einrichtungen zu den Bezeichnungen bei 
 Stakeholdern – und schafft so die Basis für den Austausch. Zu den zahlreichen potenziellen Stakeholdern 
 in der Kommunikation, bei der Informationen aus Patientenakten eine Rolle spielen, zählen unter anderem 
-Leistungspartner in der Behandlungskette, Kostenträger, der MDK, Behörden und der Patient.
+Leistungspartner in der Behandlungskette, Kostenträger, der MD, Behörden und der Patient.
 
 Die KDL ermöglicht eine einheitliche Strukturierung der enorm vielfältigen Dokumententyp-Benennungen 
 im täglichen Gebrauch. Sie stellt den Kern von Dokumententypen in einer medizinischen Einrichtung dar. 
