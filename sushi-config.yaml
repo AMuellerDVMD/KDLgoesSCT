@@ -9,8 +9,8 @@ name: KDLgoesSnomed
 title: KDL - Mapping auf Snomed und LOINC
 description: Implementation Guide für KDL-Mappings
 status: draft # draft | active | retired | unknown
-version: 0.1.0
-date: 2026-03-15
+version: 0.1.1
+date: 2026-04-12
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2026+
 releaseLabel: ci-build
