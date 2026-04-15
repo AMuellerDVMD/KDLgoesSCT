@@ -1,4 +1,4 @@
-//generated: 2026-04-12 21:50:24"
+//generated: 2026-04-15 22:53:21"
 
 Instance: KDL2loinc
 InstanceOf: ConceptMap
@@ -22,9 +22,9 @@ Description: "Mapping von KDL auf loinc"
 
 * group[=].element[0].code = #AU
 * group[=].element[=].display = "Aufnahme"
-* group[=].element[=].target[+].code  = #1234-5
-* group[=].element[=].target[=].display  = "Test"
-* group[=].element[=].target[=].equivalence  = #equal
+* group[=].element[=].target[+].code = #1234-5
+* group[=].element[=].target[=].display = "Test"
+* group[=].element[=].target[=].equivalence = #equal
 
 
 

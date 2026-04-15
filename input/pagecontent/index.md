@@ -19,8 +19,17 @@ von Dokumenten (Bezeichnungen der papiergeführten und elektronischen Dokumentat
 
 ## Mappings
 
+Dieses Projekt stellt diverse Mappings bereit:
+
 * KDL -> Snomed CT
 * KDL -> LOINC
+
+und
+
+* Snomed CT -> KDL
+* LOINC -> KDL
+
+Die LOINC-Mappings werden zukünftig in ein eigenes Projekt verlagert, um eine unabhängige Versionierung zu ermöglichen.
 
 ## Offene Punkte
 

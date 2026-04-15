@@ -6,11 +6,11 @@
 id: kdlgoessct
 canonical: http://www.dvmd.de/kdl
 name: KDLgoesSnomed
-title: KDL - Mapping auf Snomed und LOINC
+title: KDL - Mapping auf Snomed und LOINC und umgekehrt
 description: Implementation Guide für KDL-Mappings
 status: draft # draft | active | retired | unknown
-version: 0.1.1
-date: 2026-04-12
+version: 0.2.0
+date: 2026-04-15
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2026+
 releaseLabel: ci-build
@@ -25,7 +25,7 @@ publisher:
 # package id and the value is the version (or dev/current). For advanced
 # use cases, the value can be an object with keys for id, uri, and version.
 #
-dependencies:
+#dependencies:
   #ihe-de.iti.xds-vs: dev
 #   hl7.fhir.us.core: 3.1.0
 #   hl7.fhir.us.mcode:
