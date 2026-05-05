@@ -1,4 +1,4 @@
-//generated: 2026-04-15 22:53:21"
+//generated: 2026-05-05 18:29:12"
 
 Instance: KDL2loinc
 InstanceOf: ConceptMap
@@ -14,12 +14,13 @@ Description: "Mapping von KDL auf loinc"
 * experimental = true
 
 * sourceCanonical = "http://www.dvmd.de/kdlgoessct/ValueSet/kdl"
-* targetCanonical = "http://loinc.org"
+* targetCanonical = ""
 
 
 * group[+].source = "http://www.dvmd.de/fhir/kdl"
 * group[=].target = "http://loinc.org"
 
+// 1
 * group[=].element[0].code = #AU
 * group[=].element[=].display = "Aufnahme"
 * group[=].element[=].target[+].code = #1234-5
