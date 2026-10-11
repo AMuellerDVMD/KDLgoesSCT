@@ -1,4 +1,4 @@
-//generated: 2026-05-05 18:29:12"
+//generated: 2026-10-11 16:46:13"
 
 Instance: Snomed2kdl
 InstanceOf: ConceptMap
@@ -6,14 +6,14 @@ Usage: #definition
 Title: "Snomed -> kdl"
 Description: "Mapping von KDL auf kdl"
 
-* url = "http://www.dvmd.de/kdlgoessct/ConceptMap/KDL2kdl"
+* url = "http://www.dvmd.de/kdlgoessct/ConceptMap/Snomed2kdl"
 * name = "KDL2http://dvmd.de/kdl"
 
 * version = "2025"
 * status = #active
 * experimental = true
 
-* sourceCanonical = "http://www.dvmd.de/kdlgoessct/ValueSet/kdl"
+* sourceCanonical = "http://www.dvmd.de/kdl/ValueSet/kdl"
 * targetCanonical = ""
 
 

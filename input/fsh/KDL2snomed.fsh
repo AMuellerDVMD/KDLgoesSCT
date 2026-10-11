@@ -1,4 +1,4 @@
-//generated: 2026-05-05 18:29:12"
+//generated: 2026-10-11 16:46:13"
 
 Instance: KDL2snomed
 InstanceOf: ConceptMap
@@ -13,7 +13,7 @@ Description: "Mapping von KDL auf snomed"
 * status = #active
 * experimental = true
 
-* sourceCanonical = "http://www.dvmd.de/kdlgoessct/ValueSet/kdl"
+* sourceCanonical = "http://www.dvmd.de/kdl/ValueSet/kdl"
 * targetCanonical = ""
 
 

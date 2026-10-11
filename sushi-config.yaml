@@ -4,13 +4,13 @@
 # │  see: https://fshschool.org/docs/sushi/configuration/.                                         │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 id: kdlgoessct
-canonical: http://www.dvmd.de/kdl
+canonical: http://www.dvmd.de/kdlgoessct
 name: KDLgoesSnomed
 title: KDL - Mapping auf Snomed und LOINC und umgekehrt
 description: Implementation Guide für KDL-Mappings
 status: draft # draft | active | retired | unknown
-version: 0.2.1
-date: 2026-05-05
+version: 0.2.2
+date: 2026-10-10
 fhirVersion: 4.0.1 # https://www.hl7.org/fhir/valueset-FHIR-version.html
 copyrightYear: 2026+
 releaseLabel: ci-build

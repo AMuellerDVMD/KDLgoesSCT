@@ -1,5 +1,3 @@
-# Die KDL
-
 Die Klinische Dokumentenklassen-Liste (KDL) ist eine Entwicklung der anwendungsorientierten Forschung der 
 DMI GmbH & Co. KG aus den Jahren 2013 – 2018 und basiert auf der Erfahrung aus der Indexierung von 
 jährlich rund 4 Millionen Patientenakten mit 200 Millionen Dokumenten. In 2018 ist die KDL für die 
@@ -17,7 +15,7 @@ im täglichen Gebrauch. Sie stellt den Kern von Dokumententypen in einer medizin
 Basis für die Liste sind die – von 300 Krankenhäusern aller Versorgungsstufen – vorhandenen Benennungen 
 von Dokumenten (Bezeichnungen der papiergeführten und elektronischen Dokumentation) in einer Patientenakte.
 
-## Mappings
+### Mappings
 
 Dieses Projekt stellt diverse Mappings bereit:
 
@@ -31,7 +29,7 @@ und
 
 Die LOINC-Mappings werden zukünftig in ein eigenes Projekt verlagert, um eine unabhängige Versionierung zu ermöglichen.
 
-## Offene Punkte
+### Offene Punkte
 
 * Trennung in separrate Leitfäden, um die Mappings unabhängig voneinder zu machen
 * diverse weitere Seiten zur Erklärung des Inhaltes ..
